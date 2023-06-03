@@ -1,3 +1,5 @@
+![logo](https://github.com/waleedkhano/waleedkhano/blob/main/top-ide-software.jpeg)
+
 <h1 align="center">Hi, I'm Waleed khan</h1>
 <h3 align="center">A passionate Mern Stack developer who was born and raised in the northern area of Pakistan.</h3>
 
