@@ -8,8 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/waleed-khano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waleed khano" height="30" width="40" /></a>
-<a href="https://twitter.com/waleed_khano_" target="blank"><img align="center" src="![image](https://github.com/waleedkhano/waleedkhano/assets/110036553/0485df13-7bd8-41e2-9e0d-305c22e7bdab)
-" alt="waleedkhanow" height="30" width="40" /></a>
+<a href="https://twitter.com/waleed_khano_" target="blank"><img align="center" src="https://github.com/waleedkhano/waleedkhano/assets/110036553/0485df13-7bd8-41e2-9e0d-305c22e7bdab" alt="waleedkhanow" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
