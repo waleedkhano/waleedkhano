@@ -3,7 +3,9 @@
 <h1 align="center">Hi, I'm Waleed khan</h1>
 <h3 align="center">A passionate Mern Stack developer who was born and raised in the northern area of Pakistan.</h3>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Full-Stack+Developer.;Open-Source+Contributor.;">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
