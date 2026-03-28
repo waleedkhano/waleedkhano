@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi , I'm Waleed Muhammad Khan</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | AI Enthusiast</h3>
+<h3 align="center">Full Stack Developer | MERN Stack </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+AI+Powered+Apps;Clean+Code+%7C+Scalable+Systems" />
@@ -34,7 +34,7 @@
 
 - AI Blogging Platform (Auto content generation + SEO optimization)
 - Doctor Appointment System (Full-stack + real-time workflows)
-- 📊dvanced Dashboards (Analytics + performance tracking)
+- Advanced Dashboards (Analytics + performance tracking)
 
 ---
 
