@@ -2,7 +2,7 @@
   <img src="https://github.com/waleedkhano/waleedkhano/blob/main/top-ide-software.jpeg" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Waleed Khan</h1>
+<h1 align="center">Hi , I'm Waleed Muhammad Khan</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | AI Enthusiast</h3>
 
 <p align="center">
@@ -11,34 +11,34 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 💻 Full Stack Developer with **2+ years of experience**
-- ⚡ Specialized in **MERN Stack (MongoDB, Express, React, Node.js)**
-- 🤖 Building **AI-powered applications & automation tools**
-- 🧠 Strong focus on **performance, scalability & clean architecture**
-- 🌍 Based in **Islamabad, Pakistan**
-- 🎯 Open to **remote opportunities**
+- Full Stack Developer with **2+ years of experience**
+- Specialized in **MERN Stack (MongoDB, Express, React, Node.js)**
+- Building **AI-powered applications & automation tools**
+- Strong focus on **performance, scalability & clean architecture**
+- Based in **Islamabad, Pakistan**
+- Open to **remote opportunities**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,redux,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,microservices,js,ts,redux,tailwind,git,github" />
 </p>
 
 ---
 
-### 🔥 Featured Work
+### Featured Work
 
-- 🧠 AI Blogging Platform (Auto content generation + SEO optimization)
-- 🏥 Doctor Appointment System (Full-stack + real-time workflows)
-- 📊 Advanced Dashboards (Analytics + performance tracking)
+- AI Blogging Platform (Auto content generation + SEO optimization)
+- Doctor Appointment System (Full-stack + real-time workflows)
+- 📊dvanced Dashboards (Analytics + performance tracking)
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=waleedkhano&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -50,7 +50,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/waleed-khano">
@@ -63,14 +63,14 @@
 
 ---
 
-### 💡 Current Focus
+### Current Focus
 
-- 🚀 Scaling full-stack applications
-- 🤖 AI integrations (LLMs, automation workflows)
-- ⚡ Performance optimization & system design
+- Scaling full-stack applications
+- AI integrations (LLMs, automation workflows)
+- Performance optimization & system design
 
 ---
 
 <p align="center">
-  ⭐️ From <b>Waleed Khan</b> — Building things that matter
+  From <b>Waleed Muhammad Khan</b> — Building things that matter
 </p>
