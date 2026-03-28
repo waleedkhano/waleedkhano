@@ -1,17 +1,76 @@
-![logo](https://github.com/waleedkhano/waleedkhano/blob/main/top-ide-software.jpeg)
+<p align="center">
+  <img src="https://github.com/waleedkhano/waleedkhano/blob/main/top-ide-software.jpeg" />
+</p>
 
-<h1 align="center">Hi, I'm Waleed khan</h1>
-<h3 align="center">A passionate Mern Stack developer who was born and raised in the northern area of Pakistan.</h3>
+<h1 align="center">Hi 👋, I'm Waleed Khan</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Full-Stack+Developer.;Open-Source+Contributor.;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+AI+Powered+Apps;Clean+Code+%7C+Scalable+Systems" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/waleed-khano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waleed khano" height="30" width="40" /></a>
-<a href="https://twitter.com/waleed_khano_" target="blank"><img align="center" src="https://github.com/waleedkhano/waleedkhano/assets/110036553/0485df13-7bd8-41e2-9e0d-305c22e7bdab" alt="waleedkhanow" height="30" width="40" /></a>
+---
+
+### 🚀 About Me
+
+- 💻 Full Stack Developer with **2+ years of experience**
+- ⚡ Specialized in **MERN Stack (MongoDB, Express, React, Node.js)**
+- 🤖 Building **AI-powered applications & automation tools**
+- 🧠 Strong focus on **performance, scalability & clean architecture**
+- 🌍 Based in **Islamabad, Pakistan**
+- 🎯 Open to **remote opportunities**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,redux,tailwind,git,github" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+---
+
+### 🔥 Featured Work
+
+- 🧠 AI Blogging Platform (Auto content generation + SEO optimization)
+- 🏥 Doctor Appointment System (Full-stack + real-time workflows)
+- 📊 Advanced Dashboards (Analytics + performance tracking)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waleedkhano&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleedkhano&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/waleed-khano">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://twitter.com/waleed_khano_">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+  </a>
+</p>
+
+---
+
+### 💡 Current Focus
+
+- 🚀 Scaling full-stack applications
+- 🤖 AI integrations (LLMs, automation workflows)
+- ⚡ Performance optimization & system design
+
+---
+
+<p align="center">
+  ⭐️ From <b>Waleed Khan</b> — Building things that matter
+</p>
