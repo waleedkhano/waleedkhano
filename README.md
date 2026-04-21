@@ -13,7 +13,7 @@
 
 ### About Me
 
-- Full Stack Developer with **2+ years of experience**
+- Full Stack Developer 
 - Specialized in **MERN Stack (MongoDB, Express, React, Node.js)**
 - Building **AI-powered applications & automation tools**
 - Strong focus on **performance, scalability & clean architecture**
